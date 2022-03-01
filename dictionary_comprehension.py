@@ -21,7 +21,7 @@ print(d3)
 print(d4)
 print(d5)
 print()
-##mais exemplos:
+##mais exemplos usando multiplicação:
 
 lista2 = [
     ("chave",2),
